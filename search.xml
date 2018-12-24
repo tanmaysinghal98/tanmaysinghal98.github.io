@@ -15,4 +15,51 @@
     
   
   
+    
+    <entry>
+      <title>404 Page Not Found</title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="404"><a href="#404" class="headerlink" title="404"></a>404</h1><p>The link is broken or the page has been moved.</p>]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>About Me</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>Competitive Coding Enthusiast with skills in Blockchain, System Design, Algorithm and Data Structures. Actively participates in Hackathons, Coding Competitions. Co-Founder of ‘<a href="http://messedup.in/" target="_blank" rel="noopener">Messed Up</a>’, a budding start up thriving to provide hassle free solutions for hostel and college students.</p><p><img src="/images/TanmayWhiteVectorized.png" alt="This is Me!"></p><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><ol><li><p><strong><a href="">Messed Up</a> : Co-Founder</strong><br>A fully functional app which displays daily menu of nearby mess to the users so that they choose to have a variety in their meal. Currently on Play Store.</p></li><li><p><strong><a href="">Studyduniya</a> : Intern</strong><br>Worked on backend of their website studyduniya.com. Helped them migrate their website on AWS EC2.</p></li><li><p><strong><a href="">Airstacks Network Pvt Ltd</a> : Intern</strong><br>Created backend and APIs for their upcoming website wannahangout.in. Managed their database in PostgreSQL.</p></li><li><p><strong><a href="">Automation of Things Pvt Ltd</a> : Intern</strong><br>Created backend for Asset Management and Inventory Management Database using YII2 (PHP framework).</p></li></ol><h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><ol><li><p><strong><a href="">Pune Institute of Computer Technology</a></strong><br>Bachelor of Engineering (BE), Computer Engineering, Final Year</p></li><li><p><strong><a href="">Abhinav Public School, Pitampura</a></strong><br>Higher Secondary Certificate, Science, 12th</p></li><li><p><strong><a href="">Delhi Public School, Gandhidham</a></strong><br>Secondary School Certificate, 10th</p></li></ol>]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>projects</title>
+      <link href="/projects/index.html"/>
+      <url>/projects/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>Resume</title>
+      <link href="/resume/index.html"/>
+      <url>/resume/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="row"><iframe src="https://drive.google.com/file/d/1L8dnfdwFfL-ucC1vaXZN3I7qzGzQc-Oo/preview" style="width:100%; height:550px"></iframe></div>]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>Search</title>
+      <link href="/search/index.html"/>
+      <url>/search/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+  
 </search>
